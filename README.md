@@ -48,10 +48,6 @@ I'm currently immersed in enhancing my web development skills while pursuing my 
 - **Super Mario Bros - O Filme 🍄🎬**:  
   Este projeto é uma recriação do clássico **Super Mario Bros**, inspirado no filme. Desenvolvido com **HTML**, **CSS** e **JavaScript**, ele traz à vida algumas das cenas e elementos visuais do universo de Mario, proporcionando uma experiência nostálgica para os fãs do jogo e do filme. Este projeto faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro**.
 
-- **Project Name 2**: *Descrição de outro projeto, enfatizando seu papel e o impacto do projeto.*
-
-- **Project Name 3**: *Qualquer projeto paralelo, contribuições para código aberto ou desafios pessoais que você está enfrentando. Mencione tecnologias ou habilidades específicas que você está aprimorando!*
-
 ---
 
 ## 💬 Let's Connect!
