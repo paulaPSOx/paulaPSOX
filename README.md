@@ -46,8 +46,9 @@ I'm currently immersed in enhancing my web development skills while pursuing my 
 ### 🖥️ Project Highlights
 
 - **Super Mario Bros - O Filme 🍄🎬**:  
-  Este projeto é uma recriação do clássico **Super Mario Bros**, inspirado no filme. Desenvolvido com **HTML**, **CSS** e **JavaScript**, ele traz à vida algumas das cenas e elementos visuais do universo de Mario, proporcionando uma experiência nostálgica para os fãs do jogo e do filme. Este projeto faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro**.
-
+  Este projeto é uma recriação do clássico **Super Mario Bros**, inspirado no filme. Desenvolvido com **HTML**, **CSS** e **JavaScript**, ele traz à vida algumas das cenas e elementos visuais do universo de Mario, proporcionando uma experiência nostálgica para os fãs do jogo e do filme. Este projeto faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro** durante a **Mapa Dev Week**.
+- **Marvel - Seleção de Personagens 🦸‍♀💥**:
+Inspirado no incrível Universo Cinemático Marvel (MCU), este projeto recria a magia dos filmes e personagens icônicos da Marvel. Desenvolvido também com HTML, CSS e JavaScript, ele proporciona uma experiência interativa e visualmente atraente, permitindo aos fãs explorar seus heróis favoritos de maneira envolvente. Faz parte do desafio da comunidade **Dev Em Dobro** e da **Guild Dev Em Dobro** durante a **Mapa Dev Week**.
 ---
 
 ## 💬 Let's Connect!
